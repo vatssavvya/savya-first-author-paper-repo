@@ -23,13 +23,3 @@ To handle the dataset imbalance, we implemented and compared three distinct Gene
 
 ---
 
-## Repository Structure
-
-```text
-├── data/               # Code or placeholders for datasets
-├── models/             # Implementations of WGAN, RALSGAN, CycleGAN, and VGG16
-├── notebooks/          # Jupyter notebooks for experimentation and visualization
-├── results/            # Evaluation metrics, generated images, and performance plots
-├── src/                # Core source code for training and preprocessing
-├── requirements.txt    # List of required Python dependencies
-└── README.md           # Project documentation
